@@ -13,7 +13,7 @@ html {
     position: relative;
     width: 1400px;
     height: 6137px;
-    border: solid 1px red;
+/*     border: solid 1px red; */
     margin: 0 auto;
 }
 
@@ -28,7 +28,7 @@ html {
 .logoimg1 {
     width: 800px;
     margin-top: 100px;
-    border: solid 1px yellow;
+/*     border: solid 1px yellow; */
 }
 
 .logoimg2 {
@@ -36,7 +36,7 @@ html {
     width: 1200px;
     top: -100px;
     left: -200px;
-    border: solid 1px blue;
+/*     border: solid 1px blue; */
 }
 
 .side1 {
